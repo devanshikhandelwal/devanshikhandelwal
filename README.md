@@ -31,6 +31,14 @@
 
 ---
 
+## 🎯 Currently Learning
+
+- JavaScript (DOM & Projects)
+- Data Structures & Algorithms
+- Web Development
+
+---
+
 ## 🚀 Projects
 
 ### 🎮 Rock Paper Scissors Game
