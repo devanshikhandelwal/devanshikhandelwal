@@ -52,12 +52,6 @@ https://github.com/devanshikhandelwal/Tic-Tac-Toe
 
 ---
 
-## 📊 GitHub Stats
-
-![Devanshi's GitHub stats](https://github-readme-stats.vercel.app/api?username=devanshikhandelwal&show_icons=true&theme=radical)
-
----
-
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]()
