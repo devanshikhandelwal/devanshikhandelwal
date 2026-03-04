@@ -52,6 +52,12 @@ https://github.com/devanshikhandelwal/Tic-Tac-Toe
 
 ---
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=devanshikhandelwal&theme=radical)
+
+---
+
 ## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]()
