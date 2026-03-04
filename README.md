@@ -2,6 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+I'm+Devanshi+Khandelwal;B.Tech+AI+%26+ML+Student;Web+Development+Learner;Future+Software+Engineer" />
 </p>
 # 👋 Hi, I'm Devanshi Khandelwal
+![Profile Views](https://komarev.com/ghpvc/?username=devanshikhandelwal&label=Profile%20views&color=ff69b4&style=flat)
 
 🎓 B.Tech Student (AI & ML)  
 💻 Learning Web Development and Data Structures  
