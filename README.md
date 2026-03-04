@@ -70,3 +70,11 @@ https://github.com/devanshikhandelwal/Tic-Tac-Toe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]()
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)]()
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/devanshikhandelwal/devanshikhandelwal/blob/output/github-contribution-grid-snake.svg)
+
+---
