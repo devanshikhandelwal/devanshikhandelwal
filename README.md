@@ -96,8 +96,7 @@ https://github.com/devanshikhandelwal/Tic-Tac-Toe
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/
-devanshi-khandelwal-8604b7305)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/devanshi-khandelwal-8604b7305)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge\&logo=instagram)]()
 
 ---
