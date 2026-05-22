@@ -1,74 +1,103 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi+I'm+Devanshi+Khandelwal;B.Tech+AI+%26+ML+Student;Web+Development+Learner;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+I'm+Devanshi+Khandelwal;Frontend+Developer+%26+AI%2FML+Student;Learning+DSA+%26+Web+Development;Building+Projects+with+JavaScript+%26+C%2B%2B" />
 </p>
+
 # 👋 Hi, I'm Devanshi Khandelwal
 
-![Profile Views](https://komarev.com/ghpvc/?username=devanshikhandelwal&label=Profile%20views&color=ff69b4&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=devanshikhandelwal\&label=Profile%20views\&color=ff69b4\&style=flat)
 
-🎓 B.Tech Student (AI & ML)  
-💻 Learning Web Development and Data Structures  
-🚀 Passionate about building projects and improving coding skills  
+🎓 B.Tech Student specializing in AI & ML
+💻 Passionate about Frontend Development and Problem Solving
+🚀 Building projects using HTML, CSS, JavaScript and C++
+📚 Currently learning Data Structures & Algorithms and Advanced JavaScript
+🎯 Aspiring Software Developer
 
 ---
 
 ## 🔥 About Me
 
-- 🌱 Currently learning **JavaScript & C++**
-- 💡 Interested in **Web Development & AI**
-- 🎯 Goal: Become a skilled **Software Developer**
-- ⚡ Love building **interactive web projects**
+* 🌱 Currently learning **JavaScript, C++ and DSA**
+* 💡 Interested in **Web Development & AI**
+* ⚡ Love building **interactive and responsive web projects**
+* 🎯 Focused on improving problem-solving and development skills
 
 ---
 
 ## 🛠 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+### Languages
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge\&logo=visualstudiocode)
 
 ---
 
 ## 🎯 Currently Learning
 
-- JavaScript (DOM & Projects)
-- Data Structures & Algorithms
-- Web Development
+* Data Structures & Algorithms
+* JavaScript DOM Manipulation
+* Responsive Web Development
+* Problem Solving
 
 ---
 
 ## 🚀 Projects
 
-### 🎮 Rock Paper Scissors Game
-Dark themed interactive game built using **HTML, CSS and JavaScript**
+### 💸 Expense Tracker Dashboard
 
-🔗 Live Demo  
+Modern dark-themed Expense Tracker built using HTML, CSS and JavaScript.
+
+#### ✨ Features
+
+* User Authentication
+* Dashboard Analytics
+* Transaction Management
+* Expense Categories
+* Local Storage Support
+* Responsive Design
+* Multi-page Navigation
+
+🔗 Live Demo
+https://devanshikhandelwal.github.io/Expense---Tracker/
+
+💻 Repository
+https://github.com/devanshikhandelwal/Expense---Tracker
+
+---
+
+### 🎮 Rock Paper Scissors Game
+
+Dark themed interactive game built using HTML, CSS and JavaScript.
+
+🔗 Live Demo
 https://devanshikhandelwal.github.io/Rock-Paper-Scissors-Game/
 
-💻 Repository  
+💻 Repository
 https://github.com/devanshikhandelwal/Rock-Paper-Scissors-Game
 
 ---
 
 ### ❌⭕ Tic Tac Toe Game
-Classic Tic Tac Toe game built using **HTML, CSS and JavaScript**
 
-💻 Repository  
+Classic Tic Tac Toe game built using HTML, CSS and JavaScript.
+
+💻 Repository
 https://github.com/devanshikhandelwal/Tic-Tac-Toe
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=devanshikhandelwal&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]()
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)]()
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/
+devanshi-khandelwal-8604b7305)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge\&logo=instagram)]()
 
 ---
